@@ -1,0 +1,29 @@
+
+body {text-align: center;
+background-color: rgb(193, 136, 136);}
+
+.box {width: 1500px;
+    background-color: #dceb8e;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+float: left;}
+
+.box1 {align-self: auto;
+    background-color: aquamarine;
+    width: 500px;
+    float: left;
+    height: 100px;
+}
+.box2 {background-color: rgb(96, 223, 181);
+width: 500px;
+float: left;
+height: 100px;}
+
+.box3 {background-color: chartreuse;
+width: 500px;
+float: left;
+height: 100px;}
+
+.box4 {float left:;
+height: 10px;}
